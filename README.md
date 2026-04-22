@@ -2,14 +2,15 @@
 
 ### 👨‍💻 Software Development Engineer | Third-year Computer Science Engineering Undergrad 
 
-I am passionate about building real-time secure backend systems and interactive web applications. [cite: 6, 7] [cite_start]My focus is on clean code, performance optimization, and scalable design. 
+I am passionate about building real-time secure backend systems and interactive web applications.
+My focus is on clean code, performance optimization, and scalable design. 
 
 ## 🚀 About Me
 - 🎓 Currently pursuing my B.E. in Computer Science Engineering.
 - ☁️ Participating in the Google Cloud Career Launchpad - APAC program.
 - 💡 Consistently improving my DSA skills.
 - 🎵 When I'm not coding or designing systems, I'm usually listening to ghazals and filmi music or watching anime and TV shows.
-- [cite_start]📫 How to reach me: [cite: 4]
+-📫 How to reach me: 
 
 ## 🛠️ Tech Stack
 * **Languages:** Java (Primary), JavaScript (Primary), Python, SQL 
