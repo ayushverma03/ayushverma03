@@ -10,7 +10,6 @@ My focus is on clean code, performance optimization, and scalable design.
 - ☁️ Participating in the Google Cloud Career Launchpad - APAC program.
 - 💡 Consistently improving my DSA skills.
 - 🎵 When I'm not coding or designing systems, I'm usually listening to ghazals and filmi music or watching anime and TV shows.
--📫 How to reach me: 
 
 ## 🛠️ Tech Stack
 * **Languages:** Java (Primary), JavaScript (Primary), Python, SQL 
