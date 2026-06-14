@@ -1,6 +1,6 @@
 # Hi there, I'm Ayush Verma 👋 
 
-### 👨‍💻 Software Development Engineer | Third-year Computer Science Engineering Undergrad 
+### 👨‍💻 Software Developer | Final Year Computer Science Undergrad 
 
 I am passionate about building real-time secure backend systems and interactive web applications.
 My focus is on clean code, performance optimization, and scalable design. 
